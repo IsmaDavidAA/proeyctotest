@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "117413782044",
+    "firebase_url": "https://diccionariomornas.firebaseio.com",
+    "project_id": "diccionariomornas",
+    "storage_bucket": "diccionariomornas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117413782044:android:0c3f2bb69e6b3b19ef35d9",
+        "android_client_info": {
+          "package_name": "com.example.proeyctotest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117413782044-l2m3mugdtva662cs67r0kthc9ckp4574.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClL37r55Kvmg7youyOl6p0gV0q9LdsL08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117413782044-l2m3mugdtva662cs67r0kthc9ckp4574.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
